@@ -67,6 +67,8 @@ This repository tracks the most powerful tools for building, scaling, and managi
   Local web workspace for orchestrating native Claude, Codex, and Gemini coding-agent sessions with parallel delegation, persistent state, approval gates, file access, and restart recovery.
 - **[fractal](https://github.com/plasma-ai/fractal)** [![GitHub stars](https://img.shields.io/github/stars/plasma-ai/fractal?style=social&color=white)](https://github.com/plasma-ai/fractal/stargazers)\
   Python runtime for hierarchical coding-agent orchestration. Each node runs in its own Git worktree, can delegate separable subtasks to child nodes, and operates within configurable iteration, depth, child, cost, and time limits.
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** [![GitHub stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social&color=white)](https://github.com/Orkas-AI/Orkas/stargazers)\
+  Open-source, local-first desktop AI workspace where a Commander turns goals into plans and coordinates specialist agents for research, coding, data analysis, documents, presentations, and video.
 
 ## 🛠️ Vendor-Native SDKs & Protocols
 *Optimized for specific LLM providers and tool integration.*
